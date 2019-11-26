@@ -1,2 +1,2 @@
-# my_projects
-My Udacity projects for my Data Analyst Nanodegree
+# inv_dataset
+Investigate a dataset - Udacity project for my Data Analyst Nanodegree
